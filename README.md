@@ -1,2 +1,3 @@
 # Summarization News
  
+Adalah
